@@ -1,2 +1,2 @@
 # Hey!
-The repositry moved here: https://github.com/CS-NextClient/NextClientServerApi
+The repository moved here: https://github.com/CS-NextClient/NextClientServerApi
